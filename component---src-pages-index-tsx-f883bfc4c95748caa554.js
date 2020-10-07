@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{QeBL:function(t,e,n){"use strict";n.r(e);n("q1tI");var c=n("NqE+"),i=n("TBFr"),l=n("+ego"),o=n("qKvR");e.default=function(){return Object(o.d)(l.a,null,Object(o.d)(c.a,null,Object(o.d)(i.a,null,Object(o.d)("h1",null,"Hi! 😅"),Object(o.d)("p",null,"Oops, this website isn't quite ready yet."),Object(o.d)("p",null,"For now, find games on ",Object(o.d)("a",{href:"https://canny.itch.io/"},"Itch.io"),"."))))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-f883bfc4c95748caa554.js.map
